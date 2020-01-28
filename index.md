@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP northeastern university
+title: OWASP Northeastern University
 tags: example-tag
 level: 4
 
